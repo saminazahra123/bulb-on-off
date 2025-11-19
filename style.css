@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.buttons{
+    display: flex; 
+    gap: 10px;
+    justify-content: center;
+    margin-top: 20px;
+}
+.buttons button{
+    width: 120px;
+    padding: 6px; 
+    border: 1px solid gray; 
+    border-radius: 15px;
+    margin: 2px;
+}
